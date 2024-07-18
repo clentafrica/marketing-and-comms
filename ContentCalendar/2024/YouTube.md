@@ -1,4 +1,4 @@
-### CLENT Africa Marketing YouTube/LinkedIn Live Video Calendar: 
+### Main Marketing YouTube/LinkedIn Live Video Calendar: 
 
 ### July/August
 
