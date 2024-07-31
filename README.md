@@ -65,7 +65,7 @@ You're welcome to join our weekly marketing meeting. Please review the meeting n
 Yiga is inviting you to a scheduled Zoom meeting.
 
 **Topic:** CLENT Africa’s Weekly Marketing Meeting  
-**Time:** Jul 31, 2024 04:00 PM West Central Africa  
+**Time:** 04:00 PM West Central Africa  
 **Every week on Wed, 52 occurrence(s)**
 
 Please download and import the following iCalendar (.ics) files to your calendar system:  
