@@ -58,3 +58,23 @@ Schedule and set agendas for regular team meetings (weekly or bi-weekly).
    - Stay updated on industry trends and best practices.
    - Encourage feedback and suggestions from team members.
    - Conduct regular reviews of processes and workflows to identify areas for improvement.
+
+## Meetings
+You're welcome to join our weekly marketing meeting. Please review the meeting notes and add any agenda items you'd like to discuss. *This is a recorded session*
+
+Yiga is inviting you to a scheduled Zoom meeting.
+
+**Topic:** CLENT Africa’s Weekly Marketing Meeting  
+**Time:** Jul 31, 2024 04:00 PM West Central Africa  
+**Every week on Wed, 52 occurrence(s)**
+
+Please download and import the following iCalendar (.ics) files to your calendar system:  
+[Weekly](https://us05web.zoom.us/meeting/tZ0vcOuprTIiHNHhcBOqR-a9YgMTM50-swjw/ics?icsToken=98tyKuGhrDwoG9ecuB-CRpx5AI_Ca-vztlhHgo11lBzHLDFhLwKvD-VvBp8qQJXD)
+
+**Join Zoom Meeting**  
+[https://us05web.zoom.us/j/89272139865?pwd=vCUP5p5IWXjAa6XdinW8C54cdPaAsF.1](https://us05web.zoom.us/j/89272139865?pwd=vCUP5p5IWXjAa6XdinW8C54cdPaAsF.1)  
+
+**Meeting ID:** 892 7213 9865  
+**Passcode:** Uai2js
+
+Looking forward to our productive session.
